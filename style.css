@@ -165,6 +165,13 @@ letter-spacing: 0.03em;
 text-align: left;
 color: #757575;
 }
+.portfolio{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.filter-list{
+    margin-bottom: 50px;
+}
 .logo{
 font-family: Raleway;
 font-size: 26px;
